@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
-*main - entry poit
-*Return: always 0 (success)
-*/
+ *  * main - main block
+ *   * Return: 0
+ *    */
 int main(void)
 {
-	puts("\"Pogramming is like building a multilingual puzzle");
+	printf("\"Pogramming is like building a multilingual puzzle");
 	return (0);
 }
