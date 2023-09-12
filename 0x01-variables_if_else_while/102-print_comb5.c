@@ -1,17 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- *  * main - A program that prints combination of all two digit numbers 0-99.
- *   *
- *    * Return: Always 0 (Success)
- *     */
+ * main - A program that prints combination of all two digit numbers 0-99.
+ * 
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 		int fTens;
-			int fOnes;
-				int sTens;
-					int sOnes;
-						int num, num2;
+		int fOnes;
+		int sTens;
+		int sOnes;
+		int num, num2;
 
 							for (num = 0; num <= 99; num++)
 									{
